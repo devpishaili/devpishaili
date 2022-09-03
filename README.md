@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/devpishaili"><img src="https://api.daily.dev/devcards/9e45d817c91e49f39d452cea11fe9075.png?r=m81" width="400" alt="Paul Ishaili's Dev Card"/></a>
+<a href="https://app.daily.dev/devpishaili"><img src="https://github.com/devpishaili/devpishaili/blob/main/devcard.svg" width="400" alt="Paul Ishaili's Dev Card"/></a>
 
 <!--
 **devpishaili/devpishaili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
